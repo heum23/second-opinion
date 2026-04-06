@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "\"${CLAUDE_PLUGIN_ROOT}/hooks/plan-review-trigger.sh\"",
+            "timeout": 5
+          }
+        ]
+      }
+    ]
+  }
+}

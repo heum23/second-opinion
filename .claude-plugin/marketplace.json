@@ -1,0 +1,13 @@
+{
+  "name": "second-opinion",
+  "owner": {
+    "name": "heum23"
+  },
+  "plugins": [
+    {
+      "name": "second-opinion",
+      "source": "./",
+      "description": "Parallel plan and spec review using Claude + Codex"
+    }
+  ]
+}
