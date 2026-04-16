@@ -1,11 +1,11 @@
 {
-  "name": "second-opinion",
+  "name": "codex-plan-review",
   "owner": {
-    "name": "heum23"
+    "name": "dlnl2"
   },
   "plugins": [
     {
-      "name": "second-opinion",
+      "name": "codex-plan-review",
       "source": "./",
       "description": "Parallel plan and spec review using Claude + Codex"
     }

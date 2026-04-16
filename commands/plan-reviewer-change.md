@@ -1,7 +1,7 @@
 ---
 name: plan-reviewer-change
-description: Codex plan review 모델 변경 (default, spark, gpt-5.4-mini, 또는 직접 입력)
-argument-hint: '<model>'
+description: Codex plan review 설정 변경 (model / mode / soft-gate / hard-gate)
+argument-hint: '<model|mode|soft-gate|hard-gate> [value]'
 disable-model-invocation: true
 allowed-tools: Bash(node:*)
 ---

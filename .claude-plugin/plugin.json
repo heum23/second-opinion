@@ -1,9 +1,9 @@
 {
-  "name": "second-opinion",
+  "name": "codex-plan-review",
   "description": "Parallel plan and spec review using Claude + Codex. Dispatches both reviewers simultaneously after writing-plans.",
-  "version": "1.0.0",
+  "version": "6.4.0",
   "author": {
-    "name": "heum23"
+    "name": "dlnl2"
   },
   "license": "MIT",
   "keywords": [
